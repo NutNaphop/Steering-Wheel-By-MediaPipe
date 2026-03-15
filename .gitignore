@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# AI Models (These are downloaded automatically by the script)
+assets/*.task
+
+# vJoy / Driver logs or temp files
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# User-specific config (if you decide to create one later)
+local_config.py
